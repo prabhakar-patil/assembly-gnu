@@ -1,4 +1,3 @@
-	.file	"hello_world.c"
 	.section	.rodata
 .LC0:
 	.string	"Hello Prabhakar!"
